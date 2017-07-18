@@ -15,6 +15,7 @@ To use these you should put the contents of this repository in your SuperCollide
 * From the menu "Edit" select "Preferences"
 * In the dialog select "Interpreter"
 * Click the "+" button next to the field labeled "Include"
+* Browse to where you have your checkout of this repo
 * Click "Apply"
 * Click "OK"
 * From the menu "Language" select "Reboot interpreter"
