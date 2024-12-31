@@ -1,4 +1,5 @@
 This is a repository to enable your supercollider language to control scsynth running on the BELA.
+**THESE CLASSES ARE NOW DEPRECATED AS THEY ARE INCLUDED IN THE REGULAR SUPERCOLLIDER DISTRIBTUION. YOU DO NOT NEED TO INSTALL THESE CLASSES SEPARETELY ANYMORE!**
 
 To use these, your sclang should include this in the compiled class library files.
 
